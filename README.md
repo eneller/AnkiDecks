@@ -1,2 +1,2 @@
 # AnkiDecks
-Collection of Anki Decks for various purposes
+Collection of Anki Decks for syncing and backups.
